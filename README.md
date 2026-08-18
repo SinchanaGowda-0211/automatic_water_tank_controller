@@ -1,5 +1,4 @@
-# automatic_water_tank_controller
-A beginner-friendly Verilog HDL project that automatically controls a water pump based on water level sensors. The pump turns ON when the water level is low and turns OFF when the tank reaches the required level.
+
 # Automatic Water Tank Controller
 
 A beginner-friendly digital logic project designed using Verilog HDL.
